@@ -1,0 +1,40 @@
+.analysis-container {
+  margin-top: 24px;
+}
+
+.score-card {
+  text-align: center;
+  padding: 30px;
+  border-radius: 16px;
+  margin-bottom: 24px;
+  background: linear-gradient(
+    135deg,
+    #4f46e5,
+    #7c3aed
+  );
+  color: white;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
+
+.analysis-section {
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 12px;
+  background: white;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+}
+
+
+.analysis-section h3 {
+  margin-bottom: 10px;
+}
+
+.analysis-section ul {
+  padding-left: 20px;
+  text-align: left;
+}
+
+.analysis-section li {
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
